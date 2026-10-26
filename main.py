@@ -1,1 +1,11 @@
-print("meu primeiro commit")
+nome= input('qual o seu nome? ')
+print(nome)
+idade= input('qual a sua idade? ')
+print(idade)
+tarefas= input('quais as suas tarefas voce deseja automatizar? ')
+print(tarefas)
+
+print('===== Resumo =====')
+print('qual o seu nome? ' , nome)
+print('qual a sua idade? ', idade)
+print('quais as suas tarefas voce deseja automatizar? ', tarefas)
